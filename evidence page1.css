@@ -67,7 +67,7 @@ li {
     border-radius: 5px;
     border-left: 5px solid #306866; /* Deep Teal */
     transition: 0.3s;
-    curser: pointer;
+    cursor: pointer;
 }
 
 li:hover {
